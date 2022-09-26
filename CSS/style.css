@@ -1,0 +1,83 @@
+body{
+	background: rgb(238, 220, 200);
+}
+
+	.fondo{
+
+		width: 500px;
+		height: 300px;
+		background-color: whitesmoke;
+		margin-top: 50px;
+
+	}
+
+#japon
+
+	.circulo{
+		width: 170px;
+	    height: 170px;
+	    -moz-border-radius: 50%;
+	    -webkit-border-radius: 50%;
+	    border-radius: 50%;
+	    background: rgb(205, 1, 2);
+	   	position: absolute;
+	   	margin-left: 150px;
+		margin-top: 65px;
+
+	}
+
+#chile
+
+	.linea1{
+		background: rgb(213, 43, 30);
+			width: 500px;
+			height: 150px;
+			position: absolute;
+			margin-top: 150px;
+
+	}
+
+	.linea2{
+		background: rgb(0, 57, 166);
+		width: 180px;
+		height: 150px;
+		position: absolute;
+		margin-right: 200px;
+	}
+
+	.chile{
+		height: 150px;
+		width: 150px;
+		margin-left: 15px;
+		margin-top: 5px;
+	}
+
+
+#suecia
+
+	.linea3{
+		background: rgb(0, 106, 166);
+		width: 500px;
+		height: 300px;
+		position: absolute;
+	}
+
+	.linea4{
+		background: rgb(0255, 204, 1);
+		width: 65px;
+		height: 300px;
+		position: absolute;
+		margin-left: 150px;
+	}
+
+	.linea5{
+		background: rgb(0255, 204, 1);
+		width: 500px;
+		height: 65px;
+		position: absolute;
+		margin-top: 120px;
+	}
+
+
+
+a:hover {color: white;}
